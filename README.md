@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Sure! Here's a basic template for the README file for your GitHub project named "sentimetric":
-
----
 
 # Sentimetric
 
@@ -22,7 +18,7 @@ Sentimetric allows users to input text data and receive sentiment analysis resul
 To use Sentimetric locally, follow these steps:
 
 1. Install dependencies: `pip install -r requirements.txt`
-2. Run the application: `streamlit run app.py`
+2. Run the application: `streamlit run main.py`
 3. Open your web browser and navigate to the provided URL.
 
 ## Dependencies
@@ -41,4 +37,4 @@ Contributions to Sentimetric are welcome! If you have any ideas for new features
 Feel free to customize the content according to your project's specific details and requirements. Let me know if you need further assistance!
 =======
 # sentiment_analysis
->>>>>>> c2ceb6aeb887560cf701fc69f656daeeac55c948
+ 
