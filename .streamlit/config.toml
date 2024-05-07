@@ -1,0 +1,10 @@
+#config.toml
+[client]
+showSidebarNavigation = false
+
+[theme]
+primaryColor="#F63366"
+backgroundColor="#000000"
+secondaryBackgroundColor="#F0F20streamlit run m 1"
+textColor="#FFFFFF"
+font="sans serif"
