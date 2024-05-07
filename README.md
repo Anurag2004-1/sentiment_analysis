@@ -7,12 +7,7 @@ Sentimetric is a Streamlit-based web application for sentiment analysis using ma
 
 Sentimetric allows users to input text data and receive sentiment analysis results, providing insights into the emotional tone of the text. The application is built using Streamlit, a Python library for building interactive web applications, and leverages machine learning techniques for sentiment analysis.
 
-## Features
-
-- **Input Text:** Users can input text data into the application.
-- **Sentiment Analysis:** Sentimetric performs sentiment analysis on the input text and provides results.
-- **Visualization:** The application provides visualizations of sentiment analysis results, such as word clouds or sentiment distributions.
-
+git
 ## Usage
 
 To use Sentimetric locally, follow these steps:
