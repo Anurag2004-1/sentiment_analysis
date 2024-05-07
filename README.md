@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sure! Here's a basic template for the README file for your GitHub project named "sentimetric":
 
 ---
@@ -38,3 +39,6 @@ Contributions to Sentimetric are welcome! If you have any ideas for new features
 ---
 
 Feel free to customize the content according to your project's specific details and requirements. Let me know if you need further assistance!
+=======
+# sentiment_analysis
+>>>>>>> c2ceb6aeb887560cf701fc69f656daeeac55c948
