@@ -4,6 +4,7 @@ from textblob import TextBlob
 # from pages.history import set_background
 import pymongo
 
+st.markdown('<link rel="stylesheet" href="styles.css">', unsafe_allow_html=True)
 # Establish connection to MongoDB
 client = pymongo.MongoClient("mongodb://localhost:27017/")
 db = client["sentiment_analysis"]

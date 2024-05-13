@@ -1,7 +1,7 @@
 # history.py
 import streamlit as st
 
-
+st.markdown('<link rel="stylesheet" href="styles.css">', unsafe_allow_html=True)
 def main():
     st.set_page_config(page_title="History Page", layout="wide", initial_sidebar_state="expanded")
     # Apply background color to the entire page

@@ -2,7 +2,7 @@
 import streamlit as st
 import pymongo
 
-
+st.markdown('<link rel="stylesheet" href="styles.css">', unsafe_allow_html=True)
 client = pymongo.MongoClient("mongodb://localhost:27017/")
 db = client["sentiment_analysis"]  # Replace "sentiment_analysis" with your database name
 col1, col2, col3 = st.columns(3)
